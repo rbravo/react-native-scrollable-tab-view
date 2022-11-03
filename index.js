@@ -1,6 +1,7 @@
 const React = require('react');
 const { Component } = React;
 const createReactClass = require('create-react-class');
+const ReactNative = require('react-native')
 const {
   Dimensions,
   View,
